@@ -82,7 +82,7 @@ The dataset is **"Black Friday Sales Data"** — a 23 MB CSV file containing 537
 
 ## 💡 Key Insights
 
-- **Male customers dominate the dataset**, accounting for ~75.4% of transactions (405,380 of 537,577) and ~76.8% of total purchase value (~$3.85B of ~$5.02B total).
+- **Male customers dominate the dataset**, accounting for about 75.4% of transactions (405,380 of 537,577) and about 76.8% of total purchase value (roughly $3.85B of the ~$5.02B total).
 - **Men also spend slightly more per transaction on average** — ~$9,505 vs. ~$8,810 for women.
 - **The 26–35 age group is by far the most active**, with 214,690 transactions — more than double the next closest group (36–45, with 107,499).
 - **Unmarried customers (Marital_Status = 0) made more transactions** than married customers (317,817 vs. 219,760), though average spend per transaction is nearly identical between the two groups (~$9,333 vs. ~$9,335).
